@@ -1,2 +1,3 @@
+NLP project
 Tweet sentiment classifier using Random Forrest and CV. 
-NLP 
+Dataset - airline sentiment tweets from Kaggle 
