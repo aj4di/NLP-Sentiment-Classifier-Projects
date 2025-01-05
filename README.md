@@ -1,9 +1,5 @@
-NLP project
-
-Tweet sentiment classifier using Random Forrest and CV. 
+NLP: Tweet sentiment classification using Random Forrest and CV. 
 
 Dataset - airline sentiment tweets from Kaggle 
 
-Basic visualization and data analysis
-
-Wordcloud viz. 
+Visualization and data analysis, wordcloud and application of Random Forrest Classifier
